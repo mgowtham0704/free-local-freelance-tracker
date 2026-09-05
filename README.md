@@ -10,7 +10,7 @@ Want to automate this entire system? Get the **Premium Package** on Gumroad whic
 * 💻 **`automate.sh`** - A one-click Linux/macOS shell script to automate your daily workflow and instantly compress/backup your database files.
 * 🗒️ **Beginner-Proof Setup Guide** - Zero technical overhead needed.
 
-👉 **[Download the Full Automated Command Center on Gumroad Now! (One-time Payment)](YOUR_GUMROAD_LINK_HERE)**
+👉 **[Download the Full Automated Command Center on Gumroad Now! (One-time Payment)](https://buymeacoffee.com/MGorg/e/572896)**
 
 ---
 
